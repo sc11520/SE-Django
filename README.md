@@ -12,11 +12,11 @@ The project repository includes the SQLite database (`db.sqlite3`) with all my d
 First, please clone the project repository to your computer using the terminal.
 
 ```bash
-git clone https://github.com/sc11520/SE-Django-CV-Project.git
+git clone https://github.com/sc11520/SE-Django.git
 ```
 Second, change the directory to the project folder.
 ```bash
-cd SE-Django-CV-Project
+cd SE-Django
 ```
 
 ### Step 2: Set Up the Environment ###
